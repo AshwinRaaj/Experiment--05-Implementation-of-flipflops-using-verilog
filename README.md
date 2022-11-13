@@ -124,7 +124,7 @@ Run the program and choose RTL viewer to get RTL realization.
 
 ### Step 6:-
 
-Do the timing diagram,and
+Do the timing diagram.
 
 
 
